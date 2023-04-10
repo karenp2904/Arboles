@@ -1,7 +1,7 @@
 package BinarySearchTree_Package;
 
 
-import Tools.DinamicQueue.Queue;
+import Estructuras.DinamicQueue.*;
 
 import java.util.logging.Logger;
 
